@@ -1,0 +1,9 @@
+tensorflow 
+numpy 
+pillow 
+matplotlib
+streamlit
+os
+pathlib
+json
+h5py
